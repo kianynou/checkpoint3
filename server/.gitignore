@@ -1,0 +1,7 @@
+build
+node_modules
+src/loaders/mysql.ts
+mysql.ts
+src/loaders/mysql.ts
+.env
+/loaders/mysql.ts
